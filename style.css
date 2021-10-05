@@ -1,4 +1,11 @@
-<style>
-color: #000000;
-background: #ffffff;
-</style>
+body
+
+{
+    color: white;
+    background: black;
+}
+
+h3, h1, .p
+{
+    color: pink;
+}
